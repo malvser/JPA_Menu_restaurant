@@ -2,7 +2,6 @@ package malov.serg;
 
 import javax.persistence.*;
 import java.util.List;
-import java.util.Random;
 import java.util.Scanner;
 
 /**
